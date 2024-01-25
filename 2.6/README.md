@@ -1,1 +1,1 @@
-# 2.6 INSTRUCTIONS
+# 2.6
